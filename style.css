@@ -1,0 +1,45 @@
+body {
+  padding: 5px;
+  background-color: #1E3577;
+}
+
+main {
+  padding-top: 1em;
+}
+
+header {
+  width: 11em;
+  background-color: #377197;
+  height: 1em;
+}
+
+ul {
+  background-color: #377197;
+  text-align: center;
+}
+
+div {
+  background-color: #195F8E;
+  margin-left: auto;
+  display: inline-block;
+  /*float: inherit;*/
+}
+
+.mainTitle {
+  background-color: #2B7CB3;
+  text-align: center;
+  display: block;
+  width: 20em;
+  margin: auto;
+}
+
+.projects {
+  background-color: #195F8E;
+  display: block;
+  width: 40em;
+  margin: auto;
+}
+
+.aboutMe {
+  background-color: #0C598C;
+}
