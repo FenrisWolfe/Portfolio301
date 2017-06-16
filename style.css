@@ -3,6 +3,16 @@ body {
   background-color: #1E3577;
 }
 
+main {
+  padding-top: 1em;
+}
+
+header {
+  width: 11em;
+  background-color: #377197;
+  height: 1em;
+}
+
 ul {
   background-color: #377197;
   text-align: center;
