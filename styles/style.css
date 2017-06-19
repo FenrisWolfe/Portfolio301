@@ -1,0 +1,70 @@
+body {
+  display: block;
+  padding: 5px;
+  position: relative;
+  z-index: 2;
+  /*background-color: #1E3577;*/
+}
+
+main {
+  position: relative;
+  padding-top: 1em;
+  z-index: 5;
+}
+
+header {
+  position: relative;
+  z-index: 5;
+  width: 11em;
+  /*background-color: #377197;*/
+  height: 1em;
+}
+
+ul {
+  z-index: 5;
+  position: relative;
+  /*background-color: rgba(0,0,0,0.2;*/
+  text-align: center;
+}
+
+div {
+  position: relative;
+  z-index: 5;
+  /*background-color: blue;*/
+  margin-left: auto;
+  display: inline-block;
+  /*float: inherit;*/
+}
+
+.video {
+  position: fixed;
+  z-index: 0;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.mainTitle {
+  background-color: rgba(0,0,0,0.2)	;
+  text-align: center;
+  display: block;
+  width: 20em;
+  margin: auto;
+}
+
+.projects {
+  background-color: rgba(0,0,0,0.2;
+  display: block;
+  width: 40em;
+  margin: auto;
+}
+
+.aboutMe {
+  position: relative;
+  z-index: 5;
+  /*background-color: #0C598C;*/
+}
