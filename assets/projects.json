@@ -1,0 +1,29 @@
+[
+{
+    "title": "Portfolio301",
+    "category": "develpment",
+    "author": "Fredric Thomas Rapp Jr.",
+    "co_author": "none",
+    "authorUrl": "https://github.com/FenrisWolfe/Portfolio301",
+    "publishedOn": "2017-06-08",
+    "body": "My portfolio for 301, This will grow as my skills grow.",
+},
+{
+    "title": "Tweet Fighter",
+    "category": "entertainment",
+    "author": "NickJaz",
+    "co_author": "Fredric Thomas Rapp Jr.",
+    "authorUrl": "https://github.com/nickjaz/tweet_fighter",
+    "publishedOn": "2017-06-02",
+    "body": "tweet_fighter equating the champion of the twitterverse",
+},
+{
+    "title": "dnd-character-creator",
+    "category": "productivity",
+    "author": "TwoFaceFear",
+    "co_author": "Fredric Thomas Rapp Jr.",
+    "authorUrl": "https://github.com/TwoFaceFear/dnd-character-creator",
+    "publishedOn": "2017-04-28",
+    "body": "dnd-character-creator",
+},
+]
